@@ -19,7 +19,7 @@ def binary_to_hexadec(num):
     Returns
     -------
     result : string
-        This is a decimal (base-10) conversion of the input.
+        This is a hexadecimal (base-16) conversion of the input.
 
     """
     
